@@ -4,7 +4,7 @@
     {
       "id": "pixelpallet-1.12.2",
       "name": "PixelPallet",
-      "description": "Servidor Pixelmon 8.3.8 — Minecraft 1.12.2",
+      "description": "Servidor Pixelmon 8.3.8 \u2014 Minecraft 1.12.2",
       "icon": null,
       "version": "1.0.0",
       "address": "localhost:25565",
@@ -245,16 +245,6 @@
           ]
         },
         {
-          "id": "com.envyful.better.dex.rewards:betterdexrewards:3.0.8@jar",
-          "name": "BetterDexRewards Forge",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1540856,
-            "url": "https://dexterlaboratorio.github.io/pixelpallet-distribution/servers/pixelpallet-1.12.2/forgemods/required/BetterDexRewards-Forge-3.0.8-1.12.2.jar",
-            "MD5": "4358d2c5a3c55609b72d3632e2da5e2c"
-          }
-        },
-        {
           "id": "noppes.npcs:customnpcs:1.12@jar",
           "name": "CustomNPCs",
           "type": "ForgeMod",
@@ -262,46 +252,6 @@
             "size": 9911871,
             "url": "https://dexterlaboratorio.github.io/pixelpallet-distribution/servers/pixelpallet-1.12.2/forgemods/required/CustomNPCs_1.12.2-(05Jul20).jar",
             "MD5": "3ab1a5c4b069d574631da5bc1880ebf7"
-          }
-        },
-        {
-          "id": "generated.forgemod:economylite:2.15.1@jar",
-          "name": "EconomyLite",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 178852,
-            "url": "https://dexterlaboratorio.github.io/pixelpallet-distribution/servers/pixelpallet-1.12.2/forgemods/required/EconomyLite-7.1.0-2.15.1.jar",
-            "MD5": "8bc474a9fbcd381892c00b7144a56a2f"
-          }
-        },
-        {
-          "id": "org.spongepowered.asm.launch:impactor:3.1.2@jar",
-          "name": "ImpactorAPI",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 259931,
-            "url": "https://dexterlaboratorio.github.io/pixelpallet-distribution/servers/pixelpallet-1.12.2/forgemods/required/Impactor-Sponge-7.1.5-3.1.2.jar",
-            "MD5": "d7cc77c92da7bd8f6ae5c259057b3048"
-          }
-        },
-        {
-          "id": "generated.forgemod:luckperms:5.3.0@jar",
-          "name": "LuckPerms",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1490830,
-            "url": "https://dexterlaboratorio.github.io/pixelpallet-distribution/servers/pixelpallet-1.12.2/forgemods/required/LuckPerms-Sponge-5.3.0.jar",
-            "MD5": "78707f24707b630b67a59fa83f34a2b7"
-          }
-        },
-        {
-          "id": "generated.forgemod:nucleus:1.2.2-S7.0@jar",
-          "name": "Nucleus",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 4179985,
-            "url": "https://dexterlaboratorio.github.io/pixelpallet-distribution/servers/pixelpallet-1.12.2/forgemods/required/Nucleus-1.2.2-S7.0-MC1.12.2-plugin.jar",
-            "MD5": "27813c3336c5435f3c2789d4233e939c"
           }
         },
         {
@@ -315,163 +265,13 @@
           }
         },
         {
-          "id": "generated.forgemod:chatpixel:1.80@jar",
-          "name": "PixelChat",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 12177,
-            "url": "https://dexterlaboratorio.github.io/pixelpallet-distribution/servers/pixelpallet-1.12.2/forgemods/required/PixelChat-1.80.jar",
-            "MD5": "112b90c458d529950273e5ba36e3f08d"
-          }
-        },
-        {
-          "id": "generated.forgemod:pixelclaim:1.0.0@jar",
-          "name": "PixelClaim",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 27698,
-            "url": "https://dexterlaboratorio.github.io/pixelpallet-distribution/servers/pixelpallet-1.12.2/forgemods/required/PixelClaim-1.0.0.jar",
-            "MD5": "0724d1fb1c9097a506ffcebc59439256"
-          }
-        },
-        {
-          "id": "fr.flashback083:pixelevent:7.3@jar",
-          "name": "PixelEvent",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 108156,
-            "url": "https://dexterlaboratorio.github.io/pixelpallet-distribution/servers/pixelpallet-1.12.2/forgemods/required/PixelEvent-7.3.jar",
-            "MD5": "b91f4ac990eb29f8064b30268908f109"
-          }
-        },
-        {
-          "id": "com.pixelextras:pixelextras:1.12.2-2.5.11-universal@jar",
-          "name": "Pixel Extras",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 168089,
-            "url": "https://dexterlaboratorio.github.io/pixelpallet-distribution/servers/pixelpallet-1.12.2/forgemods/required/PixelExtras-1.12.2-2.5.17-universal.jar",
-            "MD5": "2f98124f8b298aa1d1bf843192599063"
-          }
-        },
-        {
-          "id": "com.envyful.pixel.hunt.remastered:pixelhuntremastered:3.0.2@jar",
-          "name": "PixelHuntRemastered Forge",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1542550,
-            "url": "https://dexterlaboratorio.github.io/pixelpallet-distribution/servers/pixelpallet-1.12.2/forgemods/required/PixelHuntRemastered-Forge-3.0.2-1.12.2.jar",
-            "MD5": "9b37032407b82af6c706cbb88adbe075"
-          }
-        },
-        {
           "id": "com.pixelmonmod:pixelmon:8.3.8@jar",
           "name": "Pixelmon",
           "type": "ForgeMod",
           "artifact": {
             "size": 386205079,
-            "url": "https://dexterlaboratorio.github.io/pixelpallet-distribution/servers/pixelpallet-1.12.2/forgemods/required/Pixelmon-1.12.2-8.3.8-universal.jar",
+            "url": "https://github.com/DexterLaboratorio/pixelpallet-distribution/releases/download/v1.0.0/Pixelmon-1.12.2-8.3.8-universal.jar",
             "MD5": "b231e74eadcd4c3bd012e094e3075944"
-          }
-        },
-        {
-          "id": "net.hacko.pixelbroadcasts:pixelmonbroadcasts:1.12.2-1.1.1-universal@jar",
-          "name": "PixelmonBroadcasts",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 70658,
-            "url": "https://dexterlaboratorio.github.io/pixelpallet-distribution/servers/pixelpallet-1.12.2/forgemods/required/PixelmonBroadcasts-1.12.2-1.2.3-universal.jar",
-            "MD5": "f95038ade28f6715cc6d3ab15f32240b"
-          }
-        },
-        {
-          "id": "generated.forgemod:pixelmoneconomybridge:1.1.6@jar",
-          "name": "PixelmonEconomyBridge",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 68430,
-            "url": "https://dexterlaboratorio.github.io/pixelpallet-distribution/servers/pixelpallet-1.12.2/forgemods/required/PixelmonEconomyBridge-1.1.6.jar",
-            "MD5": "30b2b1a5a29eeaf63a5cf299e0702ad7"
-          }
-        },
-        {
-          "id": "fr.pokepixel.daem0ns.pixelmoney:pixelmoney:3.0.6@jar",
-          "name": "PixelMoney",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 31747,
-            "url": "https://dexterlaboratorio.github.io/pixelpallet-distribution/servers/pixelpallet-1.12.2/forgemods/required/PixelMoney-1.12.2-3.0.6-server.jar",
-            "MD5": "5ecc3a7e9201f841b6fd7d1569f851f2"
-          }
-        },
-        {
-          "id": "generated.forgemod:pixeltab:1.0.0@jar",
-          "name": "PixelTab",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 32853,
-            "url": "https://dexterlaboratorio.github.io/pixelpallet-distribution/servers/pixelpallet-1.12.2/forgemods/required/PixelTab-1.0.0.jar",
-            "MD5": "7e8b1f4622171b46bfe468b2738d18e8"
-          }
-        },
-        {
-          "id": "generated.forgemod:pjc:0.2.1@jar",
-          "name": "ProjectCore",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 35871,
-            "url": "https://dexterlaboratorio.github.io/pixelpallet-distribution/servers/pixelpallet-1.12.2/forgemods/required/projectcore-7.0.0-0.2.1.jar",
-            "MD5": "0742f6369b37442b2d3772482239264a"
-          }
-        },
-        {
-          "id": "generated.forgemod:pjw:0.12.1@jar",
-          "name": "ProjectWorlds",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 163007,
-            "url": "https://dexterlaboratorio.github.io/pixelpallet-distribution/servers/pixelpallet-1.12.2/forgemods/required/projectworlds-7.0.0-0.12.1.jar",
-            "MD5": "aeace50ebdd5a47ca134f977f3dafe40"
-          }
-        },
-        {
-          "id": "generated.forgemod:protocolcontrol:0.0.2@jar",
-          "name": "ProtocolControl",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 335938,
-            "url": "https://dexterlaboratorio.github.io/pixelpallet-distribution/servers/pixelpallet-1.12.2/forgemods/required/protocolcontrol-0.0.2.jar",
-            "MD5": "e9b0d2f4874373bd558a6dfd306d11ae"
-          }
-        },
-        {
-          "id": "generated.forgemod:safetrade:1.12.2-3.2.2-PIXELMON@jar",
-          "name": "SafeTrade",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 203919,
-            "url": "https://dexterlaboratorio.github.io/pixelpallet-distribution/servers/pixelpallet-1.12.2/forgemods/required/SafeTrade-1.12.2-3.2.2-PIXELMON.jar",
-            "MD5": "c05366d38d2ec0348cea080e9dc1f12e"
-          }
-        },
-        {
-          "id": "org.spongepowered.mod:sponge:1.12.2-7.4.7@jar",
-          "name": "Sponge",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 22673390,
-            "url": "https://dexterlaboratorio.github.io/pixelpallet-distribution/servers/pixelpallet-1.12.2/forgemods/required/spongeforge-1.12.2-2838-7.4.7.jar",
-            "MD5": "f1554af412a30bfe3df483e998899eed"
-          }
-        },
-        {
-          "id": "generated.forgemod:tournaments:2.6.2@jar",
-          "name": "Tournaments",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 227238,
-            "url": "https://dexterlaboratorio.github.io/pixelpallet-distribution/servers/pixelpallet-1.12.2/forgemods/required/Tournaments-1.12.2-2.6.2.jar",
-            "MD5": "04eb6b6e7ec4b06c921c221c50130244"
           }
         }
       ]
