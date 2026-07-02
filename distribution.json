@@ -1,5 +1,11 @@
 {
   "version": "1.0.0",
+  "discord": {
+    "clientId": "979030311318978670",
+    "smallImageText": "PixelPallet Launcher",
+    "smallImageKey": "logo",
+    "invite": "https://discord.gg/YqAw2V5fdk"
+  },
   "servers": [
     {
       "id": "pixelpallet-1.12.2",
@@ -11,6 +17,11 @@
       "minecraftVersion": "1.12.2",
       "mainServer": true,
       "autoconnect": false,
+      "discord": {
+        "shortId": "PixelPallet",
+        "largeImageText": "Servidor PixelPallet \u2014 Pixelmon 8.3.8",
+        "largeImageKey": "server"
+      },
       "modules": [
         {
           "id": "net.minecraftforge:forge:1.12.2-14.23.5.2860:universal",
