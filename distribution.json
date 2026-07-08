@@ -300,8 +300,8 @@
                     "name": "PixelPallet Main Menu Config",
                     "type": "File",
                     "artifact": {
-                        "size": 3115,
-                        "MD5": "08d4a7cfdc13adb5a95a5cfb7beffbfc",
+                        "size": 3118,
+                        "MD5": "00559fbba4b389887bb0d4d5f1f9b311",
                         "path": "config/CustomMainMenu/mainmenu.json",
                         "url": "https://dexterlaboratorio.github.io/pixelpallet-distribution/servers/pixelpallet-1.12.2/menu/mainmenu.json"
                     }
