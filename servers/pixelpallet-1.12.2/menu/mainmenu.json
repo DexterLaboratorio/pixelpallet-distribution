@@ -1,0 +1,125 @@
+{
+    "background":
+    {
+        "image": "url:https://dexterlaboratorio.github.io/pixelpallet-distribution/servers/pixelpallet-1.12.2/menu/menu_background.png",
+        "mode": "FILL"
+    },
+
+    "buttons":
+    {
+        "connect":
+        {
+            "text": "[  CONECTAR NO SERVIDOR  ]",
+            "posX": -125,
+            "posY": -4,
+            "width": 250,
+            "height": 22,
+            "shadow": true,
+            "texture": "custommainmenu:textures/gui/transparent.png",
+            "normalTextColor": 16777215,
+            "hoverTextColor": 16766539,
+            "alignment": "center",
+            "action":
+            {
+                "type": "openGui",
+                "gui": "multiplayer"
+            }
+        },
+
+        "singleplayer":
+        {
+            "text": "Um Jogador",
+            "posX": -85,
+            "posY": 28,
+            "width": 170,
+            "height": 20,
+            "shadow": true,
+            "texture": "custommainmenu:textures/gui/transparent.png",
+            "normalTextColor": 13158610,
+            "hoverTextColor": 16777215,
+            "alignment": "center",
+            "action":
+            {
+                "type": "openGui",
+                "gui": "singleplayer"
+            }
+        },
+
+        "options":
+        {
+            "text": "Opções",
+            "posX": -86,
+            "posY": 54,
+            "width": 54,
+            "height": 20,
+            "shadow": true,
+            "texture": "custommainmenu:textures/gui/transparent.png",
+            "normalTextColor": 13158610,
+            "hoverTextColor": 16777215,
+            "alignment": "center",
+            "action":
+            {
+                "type": "openGui",
+                "gui": "options"
+            }
+        },
+
+        "mods":
+        {
+            "text": "Mods",
+            "posX": -28,
+            "posY": 54,
+            "width": 54,
+            "height": 20,
+            "shadow": true,
+            "texture": "custommainmenu:textures/gui/transparent.png",
+            "normalTextColor": 13158610,
+            "hoverTextColor": 16777215,
+            "alignment": "center",
+            "action":
+            {
+                "type": "openGui",
+                "gui": "mods"
+            }
+        },
+
+        "quit":
+        {
+            "text": "Sair",
+            "posX": 32,
+            "posY": 54,
+            "width": 54,
+            "height": 20,
+            "shadow": true,
+            "texture": "custommainmenu:textures/gui/transparent.png",
+            "normalTextColor": 13158610,
+            "hoverTextColor": 16077888,
+            "alignment": "center",
+            "action":
+            {
+                "type": "quit"
+            }
+        }
+    },
+
+    "labels":
+    {
+        "online":
+        {
+            "text": "● Servidor Online",
+            "posX": 8,
+            "posY": -10,
+            "color": 5955709,
+            "alignment": "bottom_left"
+        },
+
+        "footer":
+        {
+            "text": "PixelPallet  ·  Servidor de Pixelmon  ·  1.12.2",
+            "posX": -104,
+            "posY": -10,
+            "color": 12171204,
+            "alignment": "bottom_center"
+        }
+    }
+}
