@@ -1,7 +1,7 @@
 {
     "background":
     {
-        "image": "pixelpallet:textures/gui/menu_background.png",
+        "image": "minecraft:textures/gui/pixelpallet_bg.png",
         "mode": "FILL"
     },
 
