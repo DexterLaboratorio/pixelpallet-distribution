@@ -1,7 +1,7 @@
 {
     "background":
     {
-        "image": "url:https://dexterlaboratorio.github.io/pixelpallet-distribution/servers/pixelpallet-1.12.2/menu/menu_background.png",
+        "image": "pixelpallet:textures/gui/menu_background.png",
         "mode": "FILL"
     },
 

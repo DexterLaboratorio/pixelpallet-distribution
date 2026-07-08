@@ -300,10 +300,31 @@
                     "name": "PixelPallet Main Menu Config",
                     "type": "File",
                     "artifact": {
-                        "size": 3190,
-                        "MD5": "e4fe1d389a23b3f5782477b6d27bc599",
+                        "size": 3118,
+                        "MD5": "1b0ce2f0d6c3aced12be0155008fde73",
                         "path": "config/CustomMainMenu/mainmenu.json",
                         "url": "https://dexterlaboratorio.github.io/pixelpallet-distribution/servers/pixelpallet-1.12.2/menu/mainmenu.json"
+                    }
+                },
+                {
+                    "id": "lumien:resourceloader:1.5.3@jar",
+                    "name": "ResourceLoader",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 16612,
+                        "url": "https://dexterlaboratorio.github.io/pixelpallet-distribution/servers/pixelpallet-1.12.2/forgemods/required/ResourceLoader-MC1.12.1-1.5.3.jar",
+                        "MD5": "51141e882f96ce756b9b3d25f2acdf57"
+                    }
+                },
+                {
+                    "id": "gg.pixelpallet:menubg:1",
+                    "name": "PixelPallet Menu Background",
+                    "type": "File",
+                    "artifact": {
+                        "size": 511786,
+                        "MD5": "b0fd20a149d40d8d38886091cde5d3c9",
+                        "path": "resources/pixelpallet/textures/gui/menu_background.png",
+                        "url": "https://dexterlaboratorio.github.io/pixelpallet-distribution/servers/pixelpallet-1.12.2/menu/menu_background.png"
                     }
                 }
             ]
