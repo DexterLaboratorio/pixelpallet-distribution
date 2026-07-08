@@ -294,6 +294,17 @@
                         "url": "https://dexterlaboratorio.github.io/pixelpallet-distribution/servers/pixelpallet-1.12.2/forgemods/required/CustomMainMenu-MC1.12.2-2.0.9.1.jar",
                         "MD5": "c12200ad89f9399d5bdcbe9da7900bb9"
                     }
+                },
+                {
+                    "id": "gg.pixelpallet:mainmenu:1",
+                    "name": "PixelPallet Main Menu Config",
+                    "type": "File",
+                    "artifact": {
+                        "size": 3190,
+                        "MD5": "e4fe1d389a23b3f5782477b6d27bc599",
+                        "path": "config/CustomMainMenu/mainmenu.json",
+                        "url": "https://dexterlaboratorio.github.io/pixelpallet-distribution/servers/pixelpallet-1.12.2/menu/mainmenu.json"
+                    }
                 }
             ]
         }
