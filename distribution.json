@@ -300,8 +300,8 @@
                     "name": "PixelPallet Main Menu Config",
                     "type": "File",
                     "artifact": {
-                        "size": 3118,
-                        "MD5": "00559fbba4b389887bb0d4d5f1f9b311",
+                        "size": 3264,
+                        "MD5": "aa1669801ebfbf1747ed45f441e200d5",
                         "path": "config/CustomMainMenu/mainmenu.json",
                         "url": "https://dexterlaboratorio.github.io/pixelpallet-distribution/servers/pixelpallet-1.12.2/menu/mainmenu.json"
                     }
@@ -317,14 +317,69 @@
                     }
                 },
                 {
-                    "id": "gg.pixelpallet:menubg:1",
-                    "name": "PixelPallet Menu Background",
+                    "id": "gg.pixelpallet:panorama0:1",
+                    "name": "Panorama 0",
                     "type": "File",
                     "artifact": {
-                        "size": 1978774,
-                        "MD5": "77db515cb2ee85c190477a8f61d3c7ae",
-                        "path": "resources/minecraft/textures/gui/pixelpallet_bg.png",
-                        "url": "https://dexterlaboratorio.github.io/pixelpallet-distribution/servers/pixelpallet-1.12.2/menu/menu_background.png"
+                        "size": 659959,
+                        "MD5": "e4813d8a15de1b7dc7decd5019929134",
+                        "path": "resources/minecraft/textures/gui/title/background/panorama_0.png",
+                        "url": "https://dexterlaboratorio.github.io/pixelpallet-distribution/servers/pixelpallet-1.12.2/menu/panorama_face.png"
+                    }
+                },
+                {
+                    "id": "gg.pixelpallet:panorama1:1",
+                    "name": "Panorama 1",
+                    "type": "File",
+                    "artifact": {
+                        "size": 659959,
+                        "MD5": "e4813d8a15de1b7dc7decd5019929134",
+                        "path": "resources/minecraft/textures/gui/title/background/panorama_1.png",
+                        "url": "https://dexterlaboratorio.github.io/pixelpallet-distribution/servers/pixelpallet-1.12.2/menu/panorama_face.png"
+                    }
+                },
+                {
+                    "id": "gg.pixelpallet:panorama2:1",
+                    "name": "Panorama 2",
+                    "type": "File",
+                    "artifact": {
+                        "size": 659959,
+                        "MD5": "e4813d8a15de1b7dc7decd5019929134",
+                        "path": "resources/minecraft/textures/gui/title/background/panorama_2.png",
+                        "url": "https://dexterlaboratorio.github.io/pixelpallet-distribution/servers/pixelpallet-1.12.2/menu/panorama_face.png"
+                    }
+                },
+                {
+                    "id": "gg.pixelpallet:panorama3:1",
+                    "name": "Panorama 3",
+                    "type": "File",
+                    "artifact": {
+                        "size": 659959,
+                        "MD5": "e4813d8a15de1b7dc7decd5019929134",
+                        "path": "resources/minecraft/textures/gui/title/background/panorama_3.png",
+                        "url": "https://dexterlaboratorio.github.io/pixelpallet-distribution/servers/pixelpallet-1.12.2/menu/panorama_face.png"
+                    }
+                },
+                {
+                    "id": "gg.pixelpallet:panorama4:1",
+                    "name": "Panorama 4",
+                    "type": "File",
+                    "artifact": {
+                        "size": 5335,
+                        "MD5": "7ccad13da79b17b71e0b4945c0743ee9",
+                        "path": "resources/minecraft/textures/gui/title/background/panorama_4.png",
+                        "url": "https://dexterlaboratorio.github.io/pixelpallet-distribution/servers/pixelpallet-1.12.2/menu/panorama_sky.png"
+                    }
+                },
+                {
+                    "id": "gg.pixelpallet:panorama5:1",
+                    "name": "Panorama 5",
+                    "type": "File",
+                    "artifact": {
+                        "size": 5335,
+                        "MD5": "7ccad13da79b17b71e0b4945c0743ee9",
+                        "path": "resources/minecraft/textures/gui/title/background/panorama_5.png",
+                        "url": "https://dexterlaboratorio.github.io/pixelpallet-distribution/servers/pixelpallet-1.12.2/menu/panorama_sky.png"
                     }
                 }
             ]

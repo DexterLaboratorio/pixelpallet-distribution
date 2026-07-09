@@ -1,8 +1,14 @@
 {
-    "background":
+    "other":
     {
-        "image": "minecraft:textures/gui/pixelpallet_bg.png",
-        "mode": "STRETCH"
+        "panorama":
+        {
+            "images": "minecraft:textures/gui/title/background/panorama_%c.png",
+            "animate": true,
+            "animationSpeed": 1,
+            "blur": false,
+            "gradient": true
+        }
     },
 
     "buttons":
