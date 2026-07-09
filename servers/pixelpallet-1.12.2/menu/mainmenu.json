@@ -1,7 +1,7 @@
 {
     "background":
     {
-        "image": "custommainmenu:textures/gui/minecraft.png",
+        "image": "minecraft:textures/gui/pixelpallet_bg.png",
         "mode": "STRETCH"
     },
 
