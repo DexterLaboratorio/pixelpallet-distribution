@@ -300,8 +300,8 @@
                     "name": "PixelPallet Main Menu Config",
                     "type": "File",
                     "artifact": {
-                        "size": 3541,
-                        "MD5": "667e445321eeea399c564b9ccdcd8d6d",
+                        "size": 3542,
+                        "MD5": "f58eca9dce45631516453c39d8a4a34d",
                         "path": "config/CustomMainMenu/mainmenu.json",
                         "url": "https://dexterlaboratorio.github.io/pixelpallet-distribution/servers/pixelpallet-1.12.2/menu/mainmenu.json"
                     }
@@ -387,8 +387,8 @@
                     "name": "PixelPallet Banner",
                     "type": "File",
                     "artifact": {
-                        "size": 1963088,
-                        "MD5": "f25c577f39b4ed675cc6681f64e130eb",
+                        "size": 2384916,
+                        "MD5": "fa5e59cfeb44794d1225d33fba21a724",
                         "path": "resources/minecraft/textures/gui/pixelpallet_banner.png",
                         "url": "https://dexterlaboratorio.github.io/pixelpallet-distribution/servers/pixelpallet-1.12.2/menu/banner_flat.png"
                     }

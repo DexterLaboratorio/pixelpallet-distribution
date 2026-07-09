@@ -16,10 +16,10 @@
         "banner":
         {
             "image": "minecraft:textures/gui/pixelpallet_banner.png",
-            "posX": -213,
-            "posY": -120,
-            "width": 426,
-            "height": 240,
+            "posX": -576,
+            "posY": -324,
+            "width": 1152,
+            "height": 648,
             "alignment": "center"
         }
     },
