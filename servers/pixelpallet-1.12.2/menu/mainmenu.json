@@ -7,7 +7,20 @@
             "animate": false,
             "animationSpeed": 0,
             "blur": false,
-            "gradient": true
+            "gradient": false
+        }
+    },
+
+    "images":
+    {
+        "banner":
+        {
+            "image": "minecraft:textures/gui/pixelpallet_banner.png",
+            "posX": -213,
+            "posY": -120,
+            "width": 426,
+            "height": 240,
+            "alignment": "center"
         }
     },
 
