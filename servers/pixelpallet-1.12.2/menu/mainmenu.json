@@ -4,23 +4,10 @@
         "panorama":
         {
             "images": "minecraft:textures/gui/title/background/panorama_%c.png",
-            "animate": false,
-            "animationSpeed": 0,
-            "blur": false,
-            "gradient": false
-        }
-    },
-
-    "images":
-    {
-        "banner":
-        {
-            "image": "minecraft:textures/gui/pixelpallet_banner.png",
-            "posX": -576,
-            "posY": -324,
-            "width": 1152,
-            "height": 648,
-            "alignment": "center"
+            "animate": true,
+            "animationSpeed": 1,
+            "blur": true,
+            "gradient": true
         }
     },
 
@@ -40,8 +27,9 @@
             "alignment": "center",
             "action":
             {
-                "type": "openGui",
-                "gui": "multiplayer"
+                "type": "connectToServer",
+                "ip": "localhost:25565",
+                "serverName": "PixelPallet"
             }
         },
 
