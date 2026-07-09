@@ -4,8 +4,8 @@
         "panorama":
         {
             "images": "minecraft:textures/gui/title/background/panorama_%c.png",
-            "animate": true,
-            "animationSpeed": 1,
+            "animate": false,
+            "animationSpeed": 0,
             "blur": false,
             "gradient": true
         }
