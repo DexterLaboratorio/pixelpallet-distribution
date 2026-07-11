@@ -1,9 +1,9 @@
 {
     "version": "1.0.0",
     "discord": {
-        "clientId": "979030311318978670",
-        "smallImageText": "PixelPallet Launcher",
-        "smallImageKey": "logo",
+        "clientId": "1525477247048224828",
+        "smallImageText": "PixelPallet",
+        "smallImageKey": "logo1x1",
         "invite": "https://discord.gg/YqAw2V5fdk"
     },
     "servers": [
@@ -20,7 +20,7 @@
             "discord": {
                 "shortId": "PixelPallet",
                 "largeImageText": "Servidor PixelPallet — Pixelmon 8.3.8",
-                "largeImageKey": "server"
+                "largeImageKey": "logo1x1"
             },
             "modules": [
                 {
