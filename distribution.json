@@ -306,6 +306,16 @@
                     }
                 },
                 {
+                    "id": "info.journeymap:journeymap:1.12.2-5.7.1p2@jar",
+                    "name": "JourneyMap",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 6536118,
+                        "url": "https://dexterlaboratorio.github.io/pixelpallet-distribution/servers/pixelpallet-1.12.2/forgemods/required/journeymap-1.12.2-5.7.1p2.jar",
+                        "MD5": "df46c93c0800a552c3d8fc7c9ddfad54"
+                    }
+                },
+                {
                     "id": "gg.pixelpallet:mainmenu:1",
                     "name": "PixelPallet Main Menu Config",
                     "type": "File",
