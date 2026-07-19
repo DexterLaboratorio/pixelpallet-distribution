@@ -13,7 +13,7 @@
             "description": "Servidor Pixelmon 8.3.8 — Minecraft 1.12.2",
             "icon": "https://dexterlaboratorio.github.io/pixelpallet-distribution/servers/pixelpallet-1.12.2/icon.png",
             "version": "1.0.0",
-            "address": "sd-br2.blazebr.com:26420",
+            "address": "sd-br4.blazebr.com:26420",
             "minecraftVersion": "1.12.2",
             "mainServer": true,
             "autoconnect": false,
@@ -321,7 +321,7 @@
                     "type": "File",
                     "artifact": {
                         "size": 3328,
-                        "MD5": "82537a830a2f6a79607feb5343be1e0c",
+                        "MD5": "9782d897fe787a925314d975d26c4d02",
                         "path": "config/CustomMainMenu/mainmenu.json",
                         "url": "https://dexterlaboratorio.github.io/pixelpallet-distribution/servers/pixelpallet-1.12.2/menu/mainmenu.json"
                     }
