@@ -28,7 +28,7 @@
             "action":
             {
                 "type": "connectToServer",
-                "ip": "sd-br4.blazebr.com:26420",
+                "ip": "sd-br4.blazebr.com:25565",
                 "serverName": "PixelPallet"
             }
         },
